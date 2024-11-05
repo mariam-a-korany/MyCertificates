@@ -47,8 +47,6 @@
 
 I am passionate about data analysis and continuously strive to improve my skills. Through these courses and others, I have gained knowledge in Excel, SQL, Python, Power BI, and Google Sheets. I am excited to apply these skills to real-world projects and make a meaningful impact.
 
-Feel free to adjust the paths to your certificate images and any other details as needed. This readme will help you showcase your hard-earned certificates and make a great impression on anyone viewing your repository! 😊
-
 ---
 
 Thank you for visiting my repository!
