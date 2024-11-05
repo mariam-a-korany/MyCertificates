@@ -5,39 +5,39 @@
 *Welcome! Here you'll find a collection of my certificates from various courses I've completed.*
 ---
 
-**9. Introduction to Excel**  
+**9. [Introduction to Excel](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/9-%20Introduction%20to%20Excel.png)**  
 - **Platform:** 365 Data Science  
 - **Date:** November 4, 2024  
 
-**8. Introduction to Data and Data Science**  
+**8. [Introduction to Data and Data Science](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/8-%20Introduction%20to%20Data%20and%20Data%20Science.png)**  
 - **Platform:** 365 Data Science  
 - **Date:** November 2, 2024  
 
-**7. Intermediate Google Sheets**  
+**7. [Intermediate Google Sheets](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/7-%20Intermediate%20Google%20Sheets.png)**  
 - **Platform:** DataCamp  
 - **Date:** October 23, 2024  
 
-**6. Introduction to Google Sheets**  
+**6. [Introduction to Google Sheets](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/6-%20Introduction%20to%20Google%20Sheets.png)**  
 - **Platform:** DataCamp  
 - **Date:** October 22, 2024  
 
-**5. Power BI Beginner to Pro Workshop**  
+**5. [Power BI Beginner to Pro Workshop](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/5-%20Power%20BI%20Beginner%20to%20Pro%20Workshop.png)**  
 - **Platform:** Pragmatic Works  
 - **Date:** October 21, 2024  
 
-**4. Introduction to Data Literacy**  
+**4. [Introduction to Data Literacy](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/4-%20Introduction%20to%20Data%20Literacy.png)**  
 - **Platform:** DataCamp  
 - **Date:** September 29, 2024  
 
-**3. Introduction to Data**  
+**3. [Introduction to Data](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/3-%20Introduction%20to%20Data.png)**  
 - **Platform:** DataCamp  
 - **Date:** September 28, 2024  
 
-**2. Introduction to SQL**  
+**2. [Introduction to SQL](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/2-%20Introduction%20to%20SQL.jpg)**  
 - **Platform:** SoloLearn  
 - **Date:** February 20, 2024  
 
-**1. Introduction to Python**  
+**1. [Introduction to Python](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/1-%20Introduction%20to%20Python.jpg)**  
 - **Platform:** SoloLearn  
 - **Date:** December 26, 2023  
 
