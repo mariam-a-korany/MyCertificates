@@ -5,13 +5,17 @@
 *Welcome! Here you'll find a collection of my certificates from various courses I've completed.*
 ---
 
-**9. [Introduction to Excel](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/9-%20Introduction%20to%20Excel.png)**  
+**10. [Introduction to Excel](https://github.com/mariam-a-korany/MyCertificates/blob/2f88f9bec798cc9b22187e445545bea2e3d6a2f5/Certificates/10-%20Introduction%20to%20Excel.png)**  
 - **Platform:** 365 Data Science  
 - **Date:** November 4, 2024  
 
-**8. [Introduction to Data and Data Science](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/8-%20Introduction%20to%20Data%20and%20Data%20Science.png)**  
+**9. [Introduction to Data and Data Science](https://github.com/mariam-a-korany/MyCertificates/blob/2f88f9bec798cc9b22187e445545bea2e3d6a2f5/Certificates/9-%20Introduction%20to%20Data%20and%20Data%20Science.png)**  
 - **Platform:** 365 Data Science  
-- **Date:** November 2, 2024  
+- **Date:** November 2, 2024
+
+**8. [Excel Formulas & Functions](https://github.com/mariam-a-korany/MyCertificates/blob/2f88f9bec798cc9b22187e445545bea2e3d6a2f5/Certificates/8-%20Excel%20Formulas%20%26%20Functions%20.png)**  
+- **Platform:** Maven Analytics 
+- **Date:** October 31, 2024
 
 **7. [Intermediate Google Sheets](https://github.com/mariam-a-korany/MyCertificates/blob/be549c03e30b93f31874c0285dd6c9af8eb951dc/Certificates/7-%20Intermediate%20Google%20Sheets.png)**  
 - **Platform:** DataCamp  
